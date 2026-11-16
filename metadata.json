@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA AI",
+  "description": "Public bilingual Persian/English AI Assistant Platform with Telegram Bot, Telegram Mini App Live Voice, Long-Term Memory Engine, Personality Studio, and SaaS Admin Console powered by Google Gemini.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
